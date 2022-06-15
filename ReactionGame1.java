@@ -1,7 +1,7 @@
 import java.util.Date;
 import java.util.Scanner;
 
-public class ReactionGameBhanuPrakash {
+public class ReactionGame1{
 
   public static final void main(String args[]) {
 
